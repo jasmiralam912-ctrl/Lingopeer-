@@ -1,0 +1,6 @@
+{
+  "name": "LingoPeer - English Speaking Partner & Language Exchange",
+  "description": "Connect with English speaking partners worldwide, practice live conversations with topic cards and icebreakers, give and receive post-session peer ratings and feedback, and practice anytime with an AI coach.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
